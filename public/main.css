@@ -1,0 +1,43 @@
+.body{
+	background-color: #FF9A62
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.sentence{
+	align-content: center;
+	text-align: center;
+	font-size: 60px;
+	color: white;
+}
+
+.margin-top{
+	margin-top: 2em;
+}
+
+.well{
+	background: #FF9A62;
+	border: 0px;
+}
+
+.searchedZip{
+	color: white;
+	font-size: 18px;
+	margin-top: 1em;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.cities{
+	color: white;
+	font-size: 15px;
+	margin-top: 1em;
+	text-align: center;
+}
